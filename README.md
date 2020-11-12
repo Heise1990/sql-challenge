@@ -1,4 +1,5 @@
 # SQL Challenge
 
-<font size="3"> Overview </font>
-This project imports employee data from multiple CSV files to be organized and analyzed via different created tables.
+**Overview**<font size = 5>     
+This project imports employee data from 6 CSV files to be organized and analyzed via multiple created tables.<br/>
+<br/>
